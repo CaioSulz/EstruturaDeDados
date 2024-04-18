@@ -1,0 +1,6 @@
+int soma(int k){
+
+  
+  
+
+}
